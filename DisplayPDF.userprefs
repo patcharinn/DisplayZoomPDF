@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{059C5FAB-FF8C-4F43-AE75-0F3752104DB2}|Default">
+  <MonoDevelop.Ide.ItemProperties.DisplayPDF.Droid PreferredExecutionTarget="Android.4200b29afeb6b3bb" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/CustomWebViewRenderer.cs">
+    <Files>
+      <File FileName="Droid/CustomWebViewRenderer.cs" Line="19" Column="1" />
+      <File FileName="Droid/Assets/pdfjs/web/viewer.html" Line="72" Column="27" />
+      <File FileName="DisplayPDF/WebViewPageCS.cs" Line="1" Column="1" />
+      <File FileName="iOS/CustomWebViewRenderer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DisplayPDF.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.01E455F9-7CFB-44C2-9637-A2F934157C68" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
