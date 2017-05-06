@@ -1,3 +1,3 @@
-This recipe shows how to display a local PDF file in a WebView control on each platform.
+DisplayPdf Or PdfViewer For XamarinForm XamarinDroid XamarinIOS -Display from Url,localPdf,Save and Display -open file -Pinch to zoom
 
-The full recipe can be found [here](http://developer.xamarin.com/recipes/cross-platform/xamarin-forms/controls/display-pdf/).
+Credit : https://developer.xamarin.com/recipes/cross-platform/xamarin-forms/controls/display-pdf/
